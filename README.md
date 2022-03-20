@@ -12,6 +12,8 @@ the product and the rating. After clicking, the widget will then display the rat
 black stars (e.g. ★★★★☆). Submitting the rating is handled without refreshing the page.
 NOTE: You do not need to implement the backend.
 
+Fo this question you will find the 3 files, above index.html , style.css and script.js download them and put them at the same directory then open index page with your browser to see the rating widget
+
 ## Second Question:
 
 Q3 [C] Design and implement a stack class (i.e. struct with accompanying functions). The interface should
